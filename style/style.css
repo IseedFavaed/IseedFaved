@@ -23,7 +23,8 @@ a{
 }
 
 .siteAntigo{
-    text-align: center;
+    position: relative;
+    left: 40%;
 }
 
 
