@@ -3328,6 +3328,11 @@ input, select, textarea {
 			z-index: 10000;
 		}
 
+		#WhatsSpan{
+			color: #636363;
+			border-color: #636363
+		}
+
 			#nav.alt ul li {
 				margin: 0 0.175em;
 			}
