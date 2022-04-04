@@ -2384,6 +2384,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 8px;
 			display: block;
+			height: 200px;
 		}
 
 		.image.left, .image.right {
@@ -2830,6 +2831,10 @@ input, select, textarea {
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
+		}
+
+		#featuresHover:hover{
+			background-color: rgb(231, 231, 231);
 		}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
