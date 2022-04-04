@@ -2989,6 +2989,10 @@ input, select, textarea {
 
 /* Spotlight */
 
+		.imgP{
+			width: 21em;
+		}
+
 	.spotlight {
 		display: -moz-flex;
 		display: -webkit-flex;
