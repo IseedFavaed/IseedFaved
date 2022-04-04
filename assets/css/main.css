@@ -22,7 +22,8 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	/* font: inherit; */
+	font-family: "Times New Roman", Times, serif;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -109,13 +110,14 @@ input, select, textarea {
 	}
 */
 
-	/* Yellow footer Body ca9e00 */
+	/* blue footer Body ca9e00 */
+	/* Degrade do Fundo / Porém foi necessário tirar o Degrade */
 	body {
 		background-color: #ca9e00;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #163E6D 15%, #163E6D 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #163E6D 15%, #163E6D 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #163E6D 15%, #163E6D 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #163E6D 15%, #163E6D 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
