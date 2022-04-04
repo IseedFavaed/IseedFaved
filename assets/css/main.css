@@ -109,13 +109,13 @@ input, select, textarea {
 	}
 */
 
-	/* Yellow footer Body */
+	/* Yellow footer Body ca9e00 */
 	body {
 		background-color: #ca9e00;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #ca9e00 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #ca9e00 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #ca9e00 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #ca9e00 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #0CC8F2 15%, #173F73 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
