@@ -3324,6 +3324,18 @@ input, select, textarea {
 						box-shadow: none;
 					}
 
+		#msgCookies{
+			border-style: solid;
+			border-radius: 5px;
+			position: fixed;
+			bottom: 0;
+			color: #636363;
+			background-color: #ddd;
+			width: 100%;
+			z-index: 10000;
+		
+		}
+		
 		#nav.alt {
 			position: fixed;
 			top: 0;
